@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # URL Shortener Service
 
 A simple URL Shortener service built using Node.js, Express, and MongoDB. This service allows users to shorten long URLs for easier sharing and redirects users to the original URLs when accessing the shortened versions.
@@ -81,3 +82,7 @@ Access the shortened URL in a browser or with a tool like curl/postman to be red
 
 Run the automated tests for this project with:
 npm test
+=======
+# UrlShortner
+UrlShortner
+>>>>>>> 57f1d53844035405cedec244e555097693a554fc
