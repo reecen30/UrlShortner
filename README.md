@@ -18,6 +18,7 @@ A simple URL Shortener service built using Node.js, Express, and MongoDB. This s
    Clone this repository to your local machine using:
 
 git clone https://github.com/reecen30/UrlShortnerAssignment.git
+
 cd UrlShortner
 
 2. **Install Dependencies**
